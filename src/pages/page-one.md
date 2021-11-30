@@ -49,6 +49,8 @@ Her er en liste over grafiske værksteder, der har gjort deres skrifttyper åben
 - ### [Font style matcher](https://meowni.ca/fontstyle-matcher/)
 - ### [Transfonter](https://transfonter.org)
 - ### [Font Forge](https://fontforge.org)
+- ### [A11y Checklist](https://www.a11yproject.com/checklist/)
+    A11y står for accessibility som betyder tilgængelighed. Det handler om at sørge for at ens hjemmeside er læsbar på tværs af handicap og teknologier. Hjælper f.eks. med at tjekke kontrasten mellem skrift og baggrund.
 
 ## Kataloger
 
