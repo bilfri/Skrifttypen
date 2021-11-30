@@ -1,5 +1,12 @@
 ---
-title: Page One
+title: Kontakt
 ---
 
-This is the first page.
+## Kontaktoplysninger
+
+
+## Priser
+500kr./timen
+
+## Om
+Selvlært

@@ -4,6 +4,13 @@
   margin: 0;
 }
 
+/* Background */
+body {
+  background-image: url("/images/background.svg");
+  background-color: color(#ffe5f1);
+  background-size: cover;
+}
+
 /* Layout */
 
 body {
@@ -64,6 +71,53 @@ article * + * {
 }
 
 /* Typography */
+
+@font-face {
+  font-family: 'title-font';
+  src: url("../fonts/Bodoni/OpenType/Bodoni-96-Bold.otf?") format('opentype');
+}
+
+@font-face {
+  font-family: 'body-font';
+  src: url("../fonts/Bodoni/OpenType/Bodoni-11-Book.otf?") format('opentype');
+}
+
+@font-face {
+  font-family: 'body-font';
+  src: url("../fonts/Bodoni/OpenType/Bodoni-11-Book-Italic.otf?") format('opentype');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'body-font';
+  src: url("../fonts/Bodoni/OpenType/Bodoni-11-Bold.otf?") format('opentype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'body-font';
+  src: url("../fonts/Bodoni/OpenType/Bodoni-11-Bold-Italic.otf?") format('opentype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'heading-font';
+  src: url("../fonts/Bodoni/OpenType/Bodoni-24-Medium.otf?") format('opentype');
+}
+
+body {
+  font-family: 'body-font';
+  font-size: 18px:
+}
+
+
+h1 {
+  font-family: 'title-font';
+  font-size: 96px;
+  font-variant-ligatures: common-ligatures discretionary-ligatures contextual;
+}
+
 :is(h1, h2, h3) {
   line-height: 1.2;
 }
@@ -74,10 +128,11 @@ article * + * {
 
 :is(h2, h3):not(:first-child) {
   margin-top: 2em;
+  font-family: 'heading-font'
 }
 
 a {
-  color: navy;
+  color: black;
   text-underline-offset: 0.08em;
 }
 

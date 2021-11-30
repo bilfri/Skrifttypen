@@ -1,5 +1,5 @@
 ---
-title: Page Two
+title: Blog
 ---
 
 This is the second page.
