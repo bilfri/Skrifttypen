@@ -9,7 +9,7 @@ Skrifttypen er din guide til at gøre dit typografiske udtryk tåleligt.
 Vægt, også kendt som tykkelse, er en grundlæggende egenskaber ved en skrifttype. Brug en fed vægt til elementer der skal stå frem som f.eks. overskrifter. Længere afsnit af tekst skal *ikke* bruge fed skrift.
 
 ## Størrelse
-Skab orden i din tekst ved at give forskellige elementer forskellig skriftstørrelse. Gør overskrifter store, du behøves ikke at være bange for at overdrive.
+Skab orden i din tekst ved at give forskellige elementer forskellig skriftstørrelse. Gør overskrifter store, du behøves ikke at være bange for at overdrive. Sørg for at din brødtekst ikke er for lille at læse. Størrelse 16 er en god nedre grænse for hjemmesider, og størrelse 11 for dokumenter.
 
 ## Fødder
 Skrifttyper hvor bogstaverne har fødder (kaldet Roman eller Serif) er gode til brødtekst, da de hjælper øjet med at følge linjerne. Skriftyper uden fødder (kaldet "Sans", "Grotesk eller "Gothic") er bedst til overskrifter.
@@ -45,25 +45,10 @@ Valget af den rigtige skrifttype til det ønskede udtryk er nok det sværeste at
 ## Matching
 For at gøre ens udtryk mere spændende kan man vælge at bruge to forskellige skrifttyper (som regel en til overskrifter og en til brødtekst). For at det bliver godt er det vigtig at de passer nogenlunde sammen. De skal altså have nogle ligheder, uden at være helt ens. En af de ligheder det er godt at kigge efter er om de bruger samme bogstavformer (se f.eks. på a eller g).
 
-## Skrifttyper på internettet
-
-- filformater
-- hosting
-- loadhastighed
-
 ## Licenser
+Dine skrifttyper skal have den rette licens til det formål du vil bruge dem til. SIL OFL licensen er den nemmeste at have med at gøre da den giver ret til både privat og kommerciel brug. Hvis ikke din skrifttype kommer med SIL OFL, må du undersøge hvilke licenser den ellers kommer med eller kan købes med for at finde ud af om den kan bruges. F.eks. er det [ikke tilladt](https://docs.microsoft.com/en-us/typography/fonts/font-faq) at have filerne til Times New Roman på sin hjemmeside.
 
-- SIL
-
-- system skrifttyper
-  
-  > fun fact: Det er ikke tilladt at bruge Times New Roman til udgivelser uden at
-  > købe licens
-
-## Læsbarhed
-
-- svagtseende: farvekombinationer + størrelse,
-- ordblinde: open dyslexia
-- børn: andika
+## Kreativt regelbrud
+Alle rådene her på siden er op til debat. Hvis alle altid følger reglerne, bliver der aldrig skabt noget nyt.
 
 
