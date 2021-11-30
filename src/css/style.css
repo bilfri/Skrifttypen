@@ -7,7 +7,7 @@
 /* Background */
 body {
   background-image: url("/images/background.svg");
-  background-color: color(#ffe5f1);
+  background-color: #ffe5f1;
   background-size: cover;
 }
 
@@ -38,10 +38,11 @@ nav ul {
   padding: 0;
   margin-left: -1rem;
   margin-right: -1rem;
+  justify-content: center;
 }
 
 nav ul li {
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 2rem;
 }
 
 nav [aria-current="page"] {
@@ -108,7 +109,7 @@ article * + * {
 
 body {
   font-family: 'body-font';
-  font-size: 18px:
+  font-size: 18px;
 }
 
 
