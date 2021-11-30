@@ -17,7 +17,7 @@ Her er en liste over grafiske værksteder, der har gjort deres skrifttyper åben
 - ### [Omnibus Type](https://omnibus-type.com)
     Omnibus Type har lavet en række populære alsidige skrifttyper, der generelt har et venligt udtryk.
 
-- ### [The League of Movable Type](https://www.theleagueofmovabletype.com)
+- ### [The League of Movable Type](https://www.theleagueofmoveabletype.com/)
     The League of Movable Type har udgivet en række markante skrifttyper af høj kvalitet. Selv om navnet lyder lidt snobbet er der skrifttyper til alle slags humør.
 
 
