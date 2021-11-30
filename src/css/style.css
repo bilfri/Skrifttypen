@@ -19,7 +19,6 @@ body {
   flex-direction: column;
   min-height: 100vh;
   padding: 5vh clamp(1rem, 5vw, 3rem) 1rem;
-  line-height: 1.5;
 }
 
 /* global settings that apply to all the elements on the site */
@@ -107,7 +106,8 @@ article * + * {
 
 body {
   font-family: 'body-font';
-  font-size: 18px;
+  font-size: 20px;
+  line-height: 1.5;
 }
 
 
@@ -118,15 +118,15 @@ h1 {
 }
 
 :is(h1, h2, h3) {
-  line-height: 1.2;
+  line-height: 1;
 }
 
 :is(h1, h2) {
   max-width: 40ch;
 }
 
-:is(h2, h3):not(:first-child) {
-  margin-top: 2em;
+:is(h2, h3) {
+  margin-top: 1.5em;
   font-family: 'heading-font'
 }
 
