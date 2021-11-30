@@ -3,8 +3,6 @@ title: Skrifttypen
 layout: page.njk
 ---
 
-## {{ meta.siteDescription }}
-
 ## Tryk vs. digitalt
 
 - hvordan **sørger** man for at
@@ -53,6 +51,4 @@ layout: page.njk
 - ligaturer
 - kerning
 
-<!-- Provided within _data/catpic.js -->
 
-![cat of the day]({{ catpic }})
