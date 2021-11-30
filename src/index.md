@@ -1,25 +1,49 @@
 ---
-title: Skrifttypen
+title: Skrift­typen
 layout: page.njk
 ---
 
-## Tryk vs. digitalt
+Skrifttypen er din guide til at gøre dit typografiske udtryk tåleligt.
 
-- hvordan **sørger** man for at
+## Vægt
+Vægt, også kendt som tykkelse, er en grundlæggende egenskaber ved en skrifttype. Brug en fed vægt til elementer der skal stå frem som f.eks. overskrifter. Længere afsnit af tekst skal *ikke* bruge fed skrift.
+
+## Størrelse
+Skab orden i din tekst ved at give forskellige elementer forskellig skriftstørrelse. Gør overskrifter store, du behøves ikke at være bange for at overdrive.
+
+## Fødder
+Skrifttyper hvor bogstaverne har fødder (kaldet Roman eller Serif) er gode til brødtekst, da de hjælper øjet med at følge linjerne. Skriftyper uden fødder (kaldet "Sans", "Grotesk eller "Gothic") er bedst til overskrifter.
+
+## Linjeafstand
+Linjeafstand er et kompromis mellem læsbarhed og pladsbrug. Som tommelfingerregel skal overskrifter have smal linjeafstand (1.1 ca.) og brødtekst stor linjeafstand (1.5 ca.). 
+
+## Bredde
+Forskellige skrifttyper har forskellig bredde. Smalle skrifttyper (kaldet "condensed" eller "narrow") skal som udgangspunkt kun bruges hvis det er nødvendigt at kunne klemme flere bogstaver ind på en linje, ved f.eks. gadeskilte, eller hvis skriften vil blive set skråt nedefra eller oppefra. Brede skrifttyper (kaldet "caption" eller "wide") kan bruges til at fremhæve citater, eller få tekst til bredde designs.
+
+## Bogstavsafstand
+Afstanden mellem de enkelte bogstaver kaldes kerning. De fleste skrifttyper har korrekt afstand mellem de fleste bogstaver, men der er ingen garanti for at alle bogstavspar fungerer helt perfekt. Derfor bør det altid tjekkes efter vigtige steder som f.eks. i logoer.
+
+## Filtyper
+Der findes forskellig filtyper til brug i forskellig kontekster. Det er bedst at bruge .woff2 på nettet og .otf til alt andet. Hvis du skal lave et dokument hvor skrifttypen er vigtig, sørg for at indlejre ("embedde")den i dokumentet, ellers kan den ikke vises på en computer, der ikke har den installeret. 
+
+## Ligaturer
+Nogle skrifttyper kan lave bindinger mellem bogstaver for bestemte kombinationer (f.eks. fi). Det kaldes for ligaturer og kan bruges til at få teksten mere ren ud, og som kunstnerisk præg.
+
+## Farve
+Ved valg af farve er det vigtigt at have styr på to ting:
+- der skal være nok kontrast mellem tekst og baggrund.
+- farver til digitalt brug skal angives som rgb, mens farver til tryk skal angives som cmyk.
 
 ## Udtryk
-
-- tidsperiode
-
-- alvor, elegance, *kompleksitet*,
-  serif?, stil, trends,
-  
-  > Et studie har vist at valget af skrifftype har indflydelse på bedømmelsen af
-  > store universitetsopgaver
+Valget af den rigtige skrifttype til det ønskede udtryk er nok det sværeste at finde ud af, når det kommer til typografi. Når du vælger ud blandt de massevis af skrifttyper, kan det hjælpe at overveje følgende:
+- formel eller afslappet?
+- simpel eller snørklet?
+- velkendt eller usædvanlig?
+- klassisk eller moderne?
+- kantet eller afrundet?
 
 ## Matching
-
-- overskrift / brødtekst, ligheder men lidt forskelle
+For at gøre ens udtryk mere spændende kan man vælge at bruge to forskellige skrifttyper (som regel en til overskrifter og en til brødtekst). For at det bliver godt er det vigtig at de passer nogenlunde sammen. De skal altså have nogle ligheder, uden at være helt ens. En af de ligheder det er godt at kigge efter er om de bruger samme bogstavformer (se f.eks. på a eller g).
 
 ## Skrifttyper på internettet
 
@@ -41,14 +65,5 @@ layout: page.njk
 - svagtseende: farvekombinationer + størrelse,
 - ordblinde: open dyslexia
 - børn: andika
-
-## Installation
-
-- Installation på computer og i cloud
-
-## Logoer
-
-- ligaturer
-- kerning
 
 
