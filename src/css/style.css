@@ -13,16 +13,16 @@ body {
 
 /* Layout */
 
+/* settings for the bounding box of the website */
 body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
   padding: 5vh clamp(1rem, 5vw, 3rem) 1rem;
-  font-family: system-ui, sans-serif;
   line-height: 1.5;
-  color: #222;
 }
 
+/* global settings that apply to all the elements on the site */
 body > * {
   --layout-spacing: max(8vh, 3rem);
   --max-width: 50ch;
@@ -31,6 +31,7 @@ body > * {
   margin-right: auto;
 }
 
+/* specifies settings for the nav bar as a whole*/
 nav ul {
   list-style: none;
   display: flex;
@@ -41,12 +42,9 @@ nav ul {
   justify-content: center;
 }
 
+/* specifies settings for each nav element */
 nav ul li {
   padding: 0.5rem 2rem;
-}
-
-nav [aria-current="page"] {
-  font-weight: bold;
 }
 
 header,
@@ -79,6 +77,11 @@ article * + * {
 }
 
 @font-face {
+  font-family: 'heading-font';
+  src: url("../fonts/Bodoni/OpenType/Bodoni-24-Medium.otf?") format('opentype');
+}
+
+@font-face {
   font-family: 'body-font';
   src: url("../fonts/Bodoni/OpenType/Bodoni-11-Book.otf?") format('opentype');
 }
@@ -100,11 +103,6 @@ article * + * {
   src: url("../fonts/Bodoni/OpenType/Bodoni-11-Bold-Italic.otf?") format('opentype');
   font-weight: bold;
   font-style: italic;
-}
-
-@font-face {
-  font-family: 'heading-font';
-  src: url("../fonts/Bodoni/OpenType/Bodoni-24-Medium.otf?") format('opentype');
 }
 
 body {
@@ -132,6 +130,12 @@ h1 {
   font-family: 'heading-font'
 }
 
+/* styling for the currently active menu tab */
+nav [aria-current="page"] {
+  font-weight: bold;
+}
+
+/* styling for links */
 a {
   color: black;
   text-underline-offset: 0.08em;
