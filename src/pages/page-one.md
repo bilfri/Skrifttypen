@@ -78,7 +78,3 @@ Her er der nogle værktøjer, der kan hjælpe med at optimere fremvisningen af d
 - ### [Type Wolf](https://typewolf.com)
     Type Wolf laver guides og nyhedsbreve om trends indenfor typografi.
 
-## Håndskrift
-
-- ### []
-
