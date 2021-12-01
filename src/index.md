@@ -3,7 +3,7 @@ title: Skrift­typen
 layout: page.njk
 ---
 
-Skrifttypen er din guide til at gøre dit typografiske udtryk tåleligt.
+Skrifttypen er din guide til at gøre dit typografiske udtryk tåleligt. Guiden indeholder kun overordnede råd, så det er op til dig selv at finde ud af hvordan du bruger rådene til lige præceis dit formål.
 
 ## Vægt
 Vægt, også kendt som tykkelse, er en grundlæggende egenskaber ved en skrifttype. Brug en fed vægt til elementer der skal stå frem som f.eks. overskrifter. Længere afsnit af tekst skal *ikke* bruge fed skrift.
@@ -24,7 +24,7 @@ Forskellige skrifttyper har forskellig bredde. Smalle skrifttyper (kaldet "conde
 Afstanden mellem de enkelte bogstaver kaldes kerning. De fleste skrifttyper har korrekt afstand mellem de fleste bogstaver, men der er ingen garanti for at alle bogstavspar fungerer helt perfekt. Derfor bør det altid tjekkes efter vigtige steder som f.eks. i logoer.
 
 ## Filtyper
-Der findes forskellig filtyper til brug i forskellig kontekster. Det er bedst at bruge .woff2 på nettet og .otf til alt andet. Hvis du skal lave et dokument hvor skrifttypen er vigtig, sørg for at indlejre ("embedde")den i dokumentet, ellers kan den ikke vises på en computer, der ikke har den installeret. 
+Der findes forskellig filtyper til brug i forskellig kontekster. Det er bedst at bruge .woff2 på nettet og .otf til alt andet. Hvis du skal lave et dokument hvor skrifttypen er vigtig, sørg for at indlejre ("embedde") skrifttypen i dokumentet, ellers kan den ikke vises på en computer, der ikke har den installeret.
 
 ## Ligaturer
 Nogle skrifttyper kan lave bindinger mellem bogstaver for bestemte kombinationer (f.eks. fi). Det kaldes for ligaturer og kan bruges til at få teksten mere ren ud, og som kunstnerisk præg.
@@ -32,7 +32,7 @@ Nogle skrifttyper kan lave bindinger mellem bogstaver for bestemte kombinationer
 ## Farve
 Ved valg af farve er det vigtigt at have styr på to ting:
 - der skal være nok kontrast mellem tekst og baggrund.
-- farver til digitalt brug skal angives som rgb, mens farver til tryk skal angives som cmyk.
+- farver til digitalt brug skal angives som `rgb`, mens farver til tryk skal angives som `cmyk`.
 
 ## Udtryk
 Valget af den rigtige skrifttype til det ønskede udtryk er nok det sværeste at finde ud af, når det kommer til typografi. Når du vælger ud blandt de massevis af skrifttyper, kan det hjælpe at overveje følgende:
