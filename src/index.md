@@ -6,7 +6,7 @@ layout: page.njk
 Skrifttypen er din guide til at gøre dit typografiske udtryk tåleligt. Guiden indeholder kun overordnede råd, så det er op til dig selv at finde ud af hvordan du bruger rådene til lige præceis dit formål.
 
 ## Vægt
-Vægt, også kendt som tykkelse, er en grundlæggende egenskaber ved en skrifttype. Brug en fed vægt til elementer der skal stå frem som f.eks. overskrifter. Længere afsnit af tekst skal *ikke* bruge fed skrift.
+Vægt, også kendt som tykkelse, er en grundlæggende egenskaber ved en skrifttype. Brug en **fed** vægt til elementer der skal stå frem som f.eks. overskrifter. Længere afsnit af tekst skal *ikke* bruge fed skrift.
 
 ## Størrelse
 Skab orden i din tekst ved at give forskellige elementer forskellig skriftstørrelse. Gør overskrifter store, du behøves ikke at være bange for at overdrive. Sørg for at din brødtekst ikke er for lille at læse. Størrelse 16 er en god nedre grænse for hjemmesider, og størrelse 11 for dokumenter.

@@ -2,6 +2,8 @@
 title: Links
 ---
 
+Her kan du finde en liste over alle mulige hjemmesider, der relaterer sig til typografi. Der er især lagt vægt på ting med åbne licenser, så alle kan bruge dem.
+
 ## Åbne Skrifttyper
 Her er en liste over grafiske værksteder, der har gjort deres skrifttyper åbent tilgængeligt for alle.
 
