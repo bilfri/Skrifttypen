@@ -52,6 +52,7 @@ main > * + * {
   margin-top: var(--layout-spacing);
 }
 
+/* footer settings */
 body > footer {
   font-family: 'nav-font';
   font-size: 16px;
@@ -68,6 +69,7 @@ body > footer div {
   color: #767676;
 }
 
+/* article settings */ 
 article * + * {
   margin-top: 1em;
 }
@@ -103,7 +105,7 @@ article * + * {
 
 @font-face {
   font-family: 'body-font';
-  src: url("../fonts/fanwood-master/Fanwood\ Text.otf") format('opentype');
+  src: url("../fonts/montserrat/Montserrat-Bold.otf") format('opentype');
   font-weight: bold;
 }
 
@@ -128,6 +130,9 @@ main {
   color: #141414;
 }
 
+:is(strong) {
+  font-size: 14.2px;
+}
 
 h1 {
   font-family: 'title-font';
@@ -151,6 +156,7 @@ h1 {
 
 /* styling for the currently active menu tab */
 nav [aria-current="page"] {
+  font-family: 'body-font';
   font-weight: bold;
 }
 
