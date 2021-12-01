@@ -1,5 +1,5 @@
 ---
-title: Gode Links
+title: Links
 ---
 
 ## Åbne Skrifttyper
@@ -42,7 +42,7 @@ Der findes en række online biblioteker, der samler skrifttyper flere forskellig
     SIL er det institut, der styrer SIL Open Font licensen, men de har også deres eget bibliotek af skrifttyper. Her finder man især skrifttyper, der dækker alfabeter fra hele verden, men også et par gode til danske bogstaver.
 
 ## Ikonbiblioteker
-    I sammenhæng med skrifttyper, kan det nogle gange være nyttigt at bruge små ikoner/piktogrammer. Her er to biblioteker der stiller deres piktogrammmer til rådighed for alle.
+I sammenhæng med skrifttyper, kan det nogle gange være nyttigt at bruge små ikoner/piktogrammer. Her er to biblioteker der stiller deres piktogrammmer til rådighed for alle.
 
 - ### [Tabler Icons](https://tabler-icons.io)
     En minimalistisk samling af piktogrammer, der også kan downloades som en skrifttype(!)
@@ -51,7 +51,7 @@ Der findes en række online biblioteker, der samler skrifttyper flere forskellig
     En super minimalistisk samling af piktogrammer.
 
 ## Værktøjer
-    Her er der nogle værktøjer, der kan hjælpe med at optimere fremvisningen af din tekst.
+Her er der nogle værktøjer, der kan hjælpe med at optimere fremvisningen af din tekst.
 
 - ### [Transfonter](https://transfonter.org)
     Transfonter kan bruges til at lave skrifttyper i alle mulige formater klar til brug på nettet og hjælper også med at skrive den korrekte `CSS` kode til at anvende dem.

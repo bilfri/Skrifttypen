@@ -53,8 +53,12 @@ main > * + * {
 }
 
 body > footer {
+  font-family: 'nav-font';
+  font-size: 16px;
+  color:rgba(0, 0, 0, 0.35);
   margin-top: auto;
   padding-top: var(--layout-spacing);
+  text-align: center;
 }
 
 body > footer div {
@@ -69,6 +73,12 @@ article * + * {
 }
 
 /* Typography */
+
+@font-face {
+  font-family: 'nav-font';
+  src: url("../fonts/montserrat/Montserrat-Medium.otf") format('opentype');
+  font-weight: bold;
+}
 
 @font-face {
   font-family: 'title-font';
@@ -104,10 +114,19 @@ article * + * {
   font-style: italic;
 }
 
-body {
+nav {
+  font-family: 'nav-font';
+  font-size: 16px;
+  font-weight: bold;
+  color: #4d1e1e;
+  text-transform: uppercase;
+}
+
+main {
   font-family: 'body-font';
   font-size: 20px;
   line-height: 1.5;
+  color: #141414;
 }
 
 
@@ -127,7 +146,8 @@ h1 {
 
 :is(h2, h3) {
   margin-top: 1.5em;
-  font-family: 'heading-font'
+  font-family: 'heading-font';
+  color: #302020;
 }
 
 /* styling for the currently active menu tab */
@@ -137,7 +157,7 @@ nav [aria-current="page"] {
 
 /* styling for links */
 a {
-  color: black;
+  color: #362929;
   text-underline-offset: 0.08em;
 }
 
