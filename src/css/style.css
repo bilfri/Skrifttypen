@@ -57,7 +57,7 @@ body > footer {
   font-family: 'nav-font';
   font-size: 16px;
   color:rgba(0, 0, 0, 0.35);
-  margin-top: auto;
+  margin-top: 400px;
   padding-top: var(--layout-spacing);
   text-align: center;
 }
@@ -140,10 +140,12 @@ h1 {
   font-family: 'title-font';
   font-size: 144px;
   font-variant-ligatures: common-ligatures discretionary-ligatures contextual;
+  margin-bottom: 30px;
+  margin-top: -15px;
 }
 
 :is(h1, h2, h3) {
-  line-height: 1;
+  line-height: 0.95;
 }
 
 :is(h1, h2) {
@@ -196,7 +198,7 @@ article img {
 
 code:not([class*="language"]) {
   font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace;
-  font-size: 1.75ex;
+  font-size: 14px;
   color: #444;
   background-color: rgba(0, 0, 0, 0.1);
   padding-right: 0.15em;

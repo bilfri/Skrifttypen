@@ -31,7 +31,7 @@ Her er en liste over grafiske værksteder, der har gjort deres skrifttyper åben
 ## Skrifttypebiblioteker
 Der findes en række online biblioteker, der samler skrifttyper flere forskellige steder fra. Nedenstående biblioteker er især specialiseret i åbne skrifttyper med SIL OFL licens.
 
-- ### [Font Library](https://font-library.org)
+- ### [Font Library](https://fontlibrary.org)
     Open Font Library er et større bibliotek af åbne skrifttyper. Skrifttyperne har varierende kvalitet, men fordelen ved dette bibliotek er at de også hoster skrifttyperne, klar til at blive brugt på hjemmesider.
 
 - ### [Font Share](https://www.fontshare.com)
