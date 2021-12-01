@@ -78,28 +78,30 @@ article * + * {
 
 @font-face {
   font-family: 'nav-font';
-  src: url("../fonts/montserrat/Montserrat-Medium.otf") format('opentype');
+  src: url("../fonts/subset-Montserrat-Medium.woff2") format('woff2');
   font-weight: bold;
 }
 
 @font-face {
   font-family: 'title-font';
-  src: url("../fonts/Bodoni/OpenType/Bodoni-96-Bold.otf?") format('opentype');
+  src: url("../fonts/subset-BodoniModa24pt-Bold.woff2") format('woff2');
+  font-weight: 700;
 }
 
 @font-face {
   font-family: 'heading-font';
-  src: url("../fonts/Bodoni/OpenType/Bodoni-24-Medium.otf?") format('opentype');
+  src: url("../fonts/subset-BodoniModa24pt-Medium.woff2") format('woff2');
+  font-weight: 500;
 }
 
 @font-face {
   font-family: 'body-font';
-  src: url("../fonts/fanwood-master/Fanwood.otf") format('opentype');
+  src: url("../fonts/subset-FanwoodText.woff2") format('woff2');
 }
 
 @font-face {
   font-family: 'body-font';
-  src: url("../fonts/fanwood-master/Fanwood\ Italic.otf") format('opentype');
+  src: url("../fonts/subset-FanwoodText-Italic.woff2") format('woff2');
   font-style: italic;
 }
 
@@ -136,7 +138,7 @@ main {
 
 h1 {
   font-family: 'title-font';
-  font-size: 96px;
+  font-size: 144px;
   font-variant-ligatures: common-ligatures discretionary-ligatures contextual;
 }
 
