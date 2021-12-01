@@ -56,7 +56,7 @@ Her er der nogle værktøjer, der kan hjælpe med at optimere fremvisningen af d
 - ### [Transfonter](https://transfonter.org)
     Transfonter kan bruges til at lave skrifttyper i alle mulige formater klar til brug på nettet og hjælper også med at skrive den korrekte `CSS` kode til at anvende dem.
 
-- ### [Font style matcher](https://meowni.ca/fontstyle-matcher/)
+- ### [Font style matcher](https://meowni.ca/font-style-matcher/)
     Hvis man bruger en speciel skrifttype på nettet er det godt at angive hvilken skrifttype en computer skal bruge hvis den specielle skrifttype ikke kan vises. Reservetypen kaldes en "fallback font", og Font Style Matcher kan hjælpe med at finde en fallback font, der ligner den rigtige skrifttype mest muligt.
 
 - ### [Font Forge](https://fontforge.org)
