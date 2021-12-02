@@ -139,6 +139,12 @@ h1 {
   margin-top: -15px;
 }
 
+@media screen and (max-width: 600px) {
+  h1 {
+    font-size: 24vw;
+  }
+}
+
 :is(h1, h2, h3) {
   line-height: 0.95;
 }
@@ -204,9 +210,6 @@ code:not([class*="language"]) {
 }
 
 /* lists */
-main ul {
-  margin: normal;
-}
 
 main ul li {
   margin: 10px 0px;
