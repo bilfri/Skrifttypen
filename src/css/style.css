@@ -6,7 +6,7 @@
 
 /* Background */
 body {
-  background-image: url("/images/background.svg");
+  background-image: url("/images/background-optimized.svg");
   background-color: #ffe5f1;
   background-size: cover;
 }
