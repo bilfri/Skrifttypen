@@ -11,7 +11,7 @@ body {
   background-size: cover;
 }
 
-/* Layout */
+/************************ Layout ******************************/
 
 /* settings for the bounding box of the website */
 body {
@@ -74,7 +74,7 @@ article * + * {
   margin-top: 1em;
 }
 
-/* Typography */
+/**************************** Typography ****************************/
 
 @font-face {
   font-family: 'nav-font';
@@ -96,6 +96,7 @@ article * + * {
 
 @font-face {
   font-family: 'body-font';
+  src: url("../fonts/subset-FanwoodText.woff2") format('woff2');
   src: url("../fonts/Fanwood\ Text.otf") format('opentype');
   font-feature-settings: "lnum";
 }
@@ -170,7 +171,7 @@ a:hover {
   outline-offset: 0.2em;
 }
 
-/* Media */
+/************************ Media ***********************************/
 
 article img {
   display: block;
@@ -188,7 +189,10 @@ article img {
   }
 }
 
-/* Supporting Content */
+/********************* Supporting Content *************************/
+
+
+/* Inline code */
 
 code:not([class*="language"]) {
   font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace;
@@ -198,6 +202,17 @@ code:not([class*="language"]) {
   padding-right: 0.15em;
   padding-left: 0.15em;
 }
+
+/* lists */
+main ul {
+  margin: normal;
+}
+
+main ul li {
+  margin: 10px 0px;
+}
+
+/* blockquotes */
 
 blockquote {
   margin: 2rem 0;
