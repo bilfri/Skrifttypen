@@ -96,7 +96,7 @@ article * + * {
 
 @font-face {
   font-family: 'body-font';
-  src: url("../fonts/subset-FanwoodText.woff2") format('woff2');
+  src: url("../fonts/Fanwood\ Text.otf") format('opentype');
   font-feature-settings: "lnum";
 }
 
