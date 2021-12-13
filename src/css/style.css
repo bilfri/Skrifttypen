@@ -79,13 +79,11 @@ article * + * {
 @font-face {
   font-family: 'nav-font';
   src: url("../fonts/subset-Montserrat-Medium.woff2") format('woff2');
-  font-weight: bold;
 }
 
 @font-face {
   font-family: 'title-font';
   src: url("../fonts/subset-BodoniModa24pt-Bold.woff2") format('woff2');
-  font-weight: 700;
 }
 
 @font-face {
@@ -99,6 +97,7 @@ article * + * {
   src: url("../fonts/subset-FanwoodText.woff2") format('woff2');
   src: url("../fonts/Fanwood\ Text.otf") format('opentype');
   font-feature-settings: "lnum";
+  font-display: swap;
 }
 
 @font-face {
@@ -114,29 +113,28 @@ article * + * {
 }
 
 nav {
-  font-family: 'nav-font';
+  font-family: 'nav-font', sans-serif;
   font-size: 16px;
-  font-weight: bold;
   color: #4d1e1e;
 }
 
 main {
-  font-family: 'body-font';
+  font-family: 'body-font', serif;
   font-size: 20px;
   line-height: 1.5;
   color: #141414;
 }
 
-:is(strong) {
+strong {
   font-size: 14.2px;
 }
 
 h1 {
-  font-family: 'title-font';
-  font-size: 144px;
+  font-family: 'title-font', serif;
   font-variant-ligatures: common-ligatures discretionary-ligatures contextual;
   margin-bottom: 30px;
   margin-top: -15px;
+  font-size: 144px;
 }
 
 @media screen and (max-width: 600px) {
