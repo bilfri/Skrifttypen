@@ -101,6 +101,10 @@ Her er der nogle værktøjer, der kan hjælpe med at optimere fremvisningen af d
 - ### [Professional Web Typography](https://prowebtype.com)
   
     Professional Web Typography er en guide til alle de ting du skal vide for at din typografi fungerer godt på nettet.
+    
+- ### [On Snot and Fonts](http://luc.devroye.org/fonts.html)
+
+    Et lidt esoterisk opslagsværk der indeholder en enorm mængde indlæg om alle sider af typografi, det være sig kendte designere, skrifttyper, historie, teknikker mm.
 
 - ### [Type Wolf](https://typewolf.com)
   
