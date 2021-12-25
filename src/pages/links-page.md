@@ -52,6 +52,10 @@ Der findes en række online biblioteker, der samler skrifttyper flere forskellig
   
     Open Foundry laver på trods af navnet ikke deres egne skrifttyper, men fremviser tilgengæld et godt udvalg fra andre designere, og er især gode hvis man leder efter en simpel skrifttype.
 
+- ### [Fonts Arena](https://fontsarena.com/)
+
+    Fonts Arena er en kurateret samling af modne, brugbare skrifttyper.
+
 - ### [SIL Fonts](https://software.sil.org/fonts/)
   
     SIL er det institut, der styrer SIL Open Font licensen, men de har også deres eget bibliotek af skrifttyper. Her finder man især skrifttyper, der dækker alfabeter fra hele verden, men også et par gode til danske bogstaver.
@@ -79,9 +83,9 @@ Her er der nogle værktøjer, der kan hjælpe med at optimere fremvisningen af d
 - ### [Font style matcher](https://meowni.ca/font-style-matcher/)
   
     Hvis man bruger en speciel skrifttype på nettet er det godt at angive hvilken skrifttype en computer skal bruge hvis den specielle skrifttype ikke kan vises. Reservetypen kaldes en "fallback font", og Font Style Matcher kan hjælpe med at finde en fallback font, der ligner den rigtige skrifttype mest muligt.
-    
-- ### [Font Identifier](https://www.fontsquirrel.com/matcherator)
 
+- ### [Font Identifier](https://www.fontsquirrel.com/matcherator)
+  
     Font Identifier kan bruges til at finde ud af hvilken font der er blevet brugt på et billede (eller den kan finde en der minder om i hvert fald).
 
 - ### [Font Forge](https://fontforge.org)
@@ -91,7 +95,7 @@ Her er der nogle værktøjer, der kan hjælpe med at optimere fremvisningen af d
 - ### [A11y Checklist](https://www.a11yproject.com/checklist/)
   
     A11y står for accessibility som betyder tilgængelighed. Det handler om at sørge for at ens hjemmeside er læsbar på tværs af handicap og teknologier. Hjælper f.eks. med at tjekke kontrasten mellem skrift og baggrund.
-  
+
 ## Kataloger
 
 - ### [Beautiful Web Type](https://beautifulwebtype.com)
@@ -101,9 +105,9 @@ Her er der nogle værktøjer, der kan hjælpe med at optimere fremvisningen af d
 - ### [Professional Web Typography](https://prowebtype.com)
   
     Professional Web Typography er en guide til alle de ting du skal vide for at din typografi fungerer godt på nettet.
-    
-- ### [On Snot and Fonts](http://luc.devroye.org/fonts.html)
 
+- ### [On Snot and Fonts](http://luc.devroye.org/fonts.html)
+  
     Et lidt esoterisk opslagsværk der indeholder en enorm mængde indlæg om alle sider af typografi, det være sig kendte designere, skrifttyper, historie, teknikker mm.
 
 - ### [Type Wolf](https://typewolf.com)
