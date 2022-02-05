@@ -92,6 +92,10 @@ Her er der nogle værktøjer, der kan hjælpe med at optimere fremvisningen af d
   
     Hvis du vil lave din egen skrifttype er Font Forge et godt værktøj, og hjælper dig også igennem processen. Vær dog klar på at det kan tage flere uger at lave et helt alfabet, hvis man vil lave det fra bunden.
 
+- ### [Brutalita](https://brutalita.com/)
+
+    Med Brutalita kan du nemt lave din egen futuristiske skrifttype.
+
 - ### [A11y Checklist](https://www.a11yproject.com/checklist/)
   
     A11y står for accessibility som betyder tilgængelighed. Det handler om at sørge for at ens hjemmeside er læsbar på tværs af handicap og teknologier. Hjælper f.eks. med at tjekke kontrasten mellem skrift og baggrund.
