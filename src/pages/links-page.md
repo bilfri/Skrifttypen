@@ -35,6 +35,16 @@ Her er en liste over grafiske værksteder, der har gjort deres skrifttyper åben
 - ### [Open Dyslexic](https://opendyslexic.org)
   
     Open Dyslexic er en skrifttype, der er optimeret til at være letlæselig for ordbline.
+    
+collletttivo.it
+https://www.love-letters.be/foundry.html
+http://www.tunera.xyz/
+https://www.suvatypefoundry.ee/
+http://ospublish.constantvzw.org/foundry/
+https://laic.pl/typefaces/open-fonts/
+https://republi.sh/#home
+https://typotheque.luuse.fun/
+https://www.ggbot.net/fonts/
 
 ## Skrifttypebiblioteker
 
@@ -59,6 +69,8 @@ Der findes en række online biblioteker, der samler skrifttyper flere forskellig
 - ### [SIL Fonts](https://software.sil.org/fonts/)
   
     SIL er det institut, der styrer SIL Open Font licensen, men de har også deres eget bibliotek af skrifttyper. Her finder man især skrifttyper, der dækker alfabeter fra hele verden, men også et par gode til danske bogstaver.
+    
+    https://www.design-research.be/by-womxn/
 
 ## Ikonbiblioteker
 
