@@ -36,15 +36,46 @@ Her er en liste over grafiske værksteder, der har gjort deres skrifttyper åben
   
     Open Dyslexic er en skrifttype, der er optimeret til at være letlæselig for ordbline.
     
-collletttivo.it
-https://www.love-letters.be/foundry.html
-http://www.tunera.xyz/
-https://www.suvatypefoundry.ee/
-http://ospublish.constantvzw.org/foundry/
-https://laic.pl/typefaces/open-fonts/
-https://republi.sh/#home
-https://typotheque.luuse.fun/
-https://www.ggbot.net/fonts/
+- ### [Colletttivo](https://.collletttivo.it)
+
+    Colletttivo er et alsidigt grafisk værksted, men er især gode til kantede skrifttyper
+
+- ### [Love Letters](https://www.love-letters.be/foundry.html)
+
+    Love letters er en lille samling af markante skrifttyper med kraftigt udtryk
+
+- ### [Tunera](http://www.tunera.xyz/)
+
+    Tunera har hovedsageligt skøre eksperimentelle skrifttyper, men også et par med mere sobert udtryk.
+
+- ### [Suva Type](https://www.suvatypefoundry.ee/)
+
+    Suva Type er en samling af skrifttyper fra Estlands Kunstakademi. De har et meget alsidigt sortiment.
+
+- ### [OSP-Foundry](http://ospublish.constantvzw.org/foundry/)
+
+    Open Source Publishing Foundry har især funktionelle skrifttyper der er gode til brug på genstande.
+
+- ### [Laïc](https://laic.pl)
+
+    Laïc laver mange tykke og snørklede skrifttyper beregnet til stor skrift.
+
+- ### [Republish](https://republi.sh/#home)
+
+    Republish laver skrifttyper med et vietnamesisk udtryk.
+
+- ### [Typotheque Luuse](https://typotheque.luuse.fun/)
+
+    Designeren Luuse udgiver sine egne og andres skrifttyper. De er ret moderne og med et hipt look.
+
+- ### [ggbot](https://www.ggbot.net/fonts/)
+
+    ggbot har skrifttyper til en række specifikke formål f.eks. tegneserie, gys, neon og mange flere.
+
+- ### [Typotheque Genderfluid](https://typotheque.genderfluid.space/index.html)
+
+    Udgiver skrifttyper med tegn til flot kønsinklusivt skriftsprog.
+    
 
 ## Skrifttypebiblioteker
 
