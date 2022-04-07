@@ -135,9 +135,21 @@ Her er der nogle værktøjer, der kan hjælpe med at optimere fremvisningen af d
   
     Hvis du vil lave din egen skrifttype er Font Forge et godt værktøj, og hjælper dig også igennem processen. Vær dog klar på at det kan tage flere uger at lave et helt alfabet, hvis man vil lave det fra bunden.
 
+- ### [Glyphr Studio](https://www.glyphrstudio.com/)
+
+    Glyphr Studio er mindre avanceret end Font Forge og kører i browseren, dvs. det kræver ingen installation.
+
+- ### [Metaflop Modulator](https://www.metaflop.com/modulator)
+
+    Med Metaflop Modulator kan man vælge blandt fire basisskrifttyper og så tilpasse en lang række grundlæggende parametre der modificerer skrifttypen.
+
 - ### [Brutalita](https://brutalita.com/)
 
     Med Brutalita kan du nemt lave din egen futuristiske skrifttype.
+
+- ### [ModuloFont](https://f-nt.eu/fr)
+
+    Med ModuloFont kan du lave din egen pixel-skrifttype.
 
 - ### [A11y Checklist](https://www.a11yproject.com/checklist/)
   
