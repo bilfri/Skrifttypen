@@ -101,7 +101,9 @@ Der findes en række online biblioteker, der samler skrifttyper flere forskellig
   
     SIL er det institut, der styrer SIL Open Font licensen, men de har også deres eget bibliotek af skrifttyper. Her finder man især skrifttyper, der dækker alfabeter fra hele verden, men også et par gode til danske bogstaver.
     
-    https://www.design-research.be/by-womxn/
+- ### [Badass Libre Fonts by Womxn](https://www.design-research.be/by-womxn/)
+
+    En kvalitetssamling af lækre skrifttyper uden cis-mandlige designere.
 
 ## Ikonbiblioteker
 
