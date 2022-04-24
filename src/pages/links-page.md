@@ -31,10 +31,6 @@ Her er en liste over grafiske værksteder, der har gjort deres skrifttyper åben
 - ### [NoirBlancRouge](https://noirblancrouge.com/category-font/open-custom_fonts/)
   
     NoirBlancRouge har et lille udvalg af åbne skrifttyper, der især er gode til at give et oldschool præg.
-
-- ### [Open Dyslexic](https://opendyslexic.org)
-  
-    Open Dyslexic er en skrifttype, der er optimeret til at være letlæselig for ordbline.
     
 - ### [Colletttivo](https://.collletttivo.it)
 
@@ -75,7 +71,16 @@ Her er en liste over grafiske værksteder, der har gjort deres skrifttyper åben
 - ### [Typotheque Genderfluid](https://typotheque.genderfluid.space/index.html)
 
     Udgiver skrifttyper med tegn til flot kønsinklusivt skriftsprog.
-    
+
+## Skrifttyper til særlige formål
+
+- ### [Open Dyslexic](https://opendyslexic.org)
+  
+    Open Dyslexic er en skrifttype, der er optimeret til at være letlæselig for ordbline.
+
+- ### [Iosevka](https://typeof.net/Iosevka/)
+
+    Iosevka er en meget omfattende skrifttype lavet til at skrive computercode og tekniske dokumenter.
 
 ## Skrifttypebiblioteker
 
