@@ -32,11 +32,11 @@ Her er en liste over grafiske værksteder, der har gjort deres skrifttyper åben
   
     NoirBlancRouge har et lille udvalg af åbne skrifttyper, der især er gode til at give et oldschool præg.
     
-- ### [Colletttivo](https://.collletttivo.it)
+- ### [Colletttivo](https://collletttivo.it)
 
     Colletttivo er et alsidigt grafisk værksted, men er især gode til kantede skrifttyper
 
-- ### [Love Letters](https://www.love-letters.be/foundry.html)
+- ### [Love Letters](https://github.com/sebsan)
 
     Love letters er en lille samling af markante skrifttyper med kraftigt udtryk
 
@@ -48,13 +48,9 @@ Her er en liste over grafiske værksteder, der har gjort deres skrifttyper åben
 
     Suva Type er en samling af skrifttyper fra Estlands Kunstakademi. De har et meget alsidigt sortiment.
 
-- ### [OSP-Foundry](http://ospublish.constantvzw.org/foundry/)
+- ### [OSP-Foundry](http://osp.kitchen/foundry/)
 
     Open Source Publishing Foundry har især funktionelle skrifttyper der er gode til brug på genstande.
-
-- ### [Laïc](https://laic.pl)
-
-    Laïc laver mange tykke og snørklede skrifttyper beregnet til stor skrift.
 
 - ### [Republish](https://republi.sh/#home)
 
@@ -92,23 +88,15 @@ Der findes en række online biblioteker, der samler skrifttyper flere forskellig
 
 - ### [Font Share](https://www.fontshare.com)
   
-    Font Share er lanceret af Indian Type Foundry, med meget professionelle og moderne skrifttyper, der især egner sig til online brug.
+    Font Share er lanceret af Indian Type Foundry, med meget professionelle og moderne skrifttyper, der især egner sig til online brug. Scroll ned til bunden for at finde open source skrifttyperne.
 
 - ### [Open Foundry](https://open-foundry.com/fonts)
   
     Open Foundry laver på trods af navnet ikke deres egne skrifttyper, men fremviser tilgengæld et godt udvalg fra andre designere, og er især gode hvis man leder efter en simpel skrifttype.
 
-- ### [Fonts Arena](https://fontsarena.com/)
-
-    Fonts Arena er en kurateret samling af modne, brugbare skrifttyper.
-
 - ### [SIL Fonts](https://software.sil.org/fonts/)
   
     SIL er det institut, der styrer SIL Open Font licensen, men de har også deres eget bibliotek af skrifttyper. Her finder man især skrifttyper, der dækker alfabeter fra hele verden, men også et par gode til danske bogstaver.
-    
-- ### [Badass Libre Fonts by Womxn](https://www.design-research.be/by-womxn/)
-
-    En kvalitetssamling af lækre skrifttyper uden cis-mandlige designere.
 
 ## Ikonbiblioteker
 
