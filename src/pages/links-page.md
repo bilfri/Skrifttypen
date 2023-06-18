@@ -68,6 +68,28 @@ Her er en liste over grafiske værksteder, der har gjort deres skrifttyper åben
 
     Udgiver skrifttyper med tegn til flot kønsinklusivt skriftsprog.
 
+- ### [Warsaw Types](https://kroje.org/en/)
+
+    En lille, men alsidig blanding af skrifttyper. Har især nogle gode lidt mere snørklede typer.
+
+- ### [bBox Type](https://bboxtype.com/typefaces/?filter=FFF)
+
+    Gode skrifttyper til markante, fede overskrifter.
+
+- ### [MontiFonti](https://montifonti.tilda.ws/)
+
+    Upcoming font designer Vika Usmanova laver simple skrifttyper med pang
+
+- ### [U+270D](https://u270d.eesab.fr/caracteres/)
+
+    Kunstskolen EESAB-Rennes' skrifttypeværksted. Har blandt andet lavet den solide Venus serie.
+
+- ### [Death of Typography](https://deathoftypography.com/typefaces/)
+
+    Et design kollektiv fra Singapor der udgiver både kommercielle skrifttyper og meget smagfulde open source skrifttyper.
+
+[*Alternativ liste*](https://gitlab.com/raphaelbastide/libre-foundries)
+
 ## Skrifttyper til særlige formål
 
 - ### [Open Dyslexic](https://opendyslexic.org)
