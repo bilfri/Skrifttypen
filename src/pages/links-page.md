@@ -94,11 +94,11 @@ Her er en liste over grafiske værksteder, der har gjort deres skrifttyper åben
 
 - ### [Open Dyslexic](https://opendyslexic.org)
   
-    Open Dyslexic er en skrifttype, der er optimeret til at være letlæselig for ordbline.
+    Open Dyslexic er en skrifttype, der er optimeret til at være letlæselig for ordblinde.
 
-- ### [Iosevka](https://typeof.net/Iosevka/)
+- ### [Atkinson Hyperlegible](https://brailleinstitute.org/freefont)
 
-    Iosevka er en meget omfattende skrifttype lavet til at skrive computercode og tekniske dokumenter.
+    Atkinson Hyperlegible er en skrifttype, der er optimeret til at være letlæselig for svagtseende.
 
 ## Skrifttypebiblioteker
 
