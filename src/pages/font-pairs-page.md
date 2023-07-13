@@ -1,5 +1,6 @@
 ---
 title: Par
+eleventyExcludeFromCollections: true
 ---
 
 Som nævnt i afsnittet "Matching" kan det være en svær disciplin at finde skrifttyper der passer godt sammen. Her er der nogle forslag til forskellige formål.
@@ -18,7 +19,7 @@ Reducer bogstavsafstand i Gnomon
 
 ## [Bodoni](https://indestructibletype.com/Bodoni) & [Montserrat](https://www.fontsquirrel.com/fonts/montserrat) 
 
-## [Fivo Sans Modern & PT Sans Caption
+## Fivo Sans Modern & PT Sans Caption
 
 ## PT Sans Narrow & Jost
 

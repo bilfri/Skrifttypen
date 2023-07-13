@@ -1,5 +1,6 @@
 ---
 title: Boring Tech Fonts
+eleventyExcludeFromCollections: true
 ---
 
 ## Inter
