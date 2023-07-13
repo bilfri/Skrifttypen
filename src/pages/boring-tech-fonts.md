@@ -24,3 +24,13 @@ eleventyExcludeFromCollections: true
 ## PT Sans
 
 ## Montserrat
+
+## Poppins
+
+## Objectivity
+
+## Albert Sans
+
+## Open Sans
+
+
