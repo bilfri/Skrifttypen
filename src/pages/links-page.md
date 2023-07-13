@@ -116,6 +116,14 @@ Der findes en række online biblioteker, der samler skrifttyper flere forskellig
   
     Open Foundry laver på trods af navnet ikke deres egne skrifttyper, men fremviser tilgengæld et godt udvalg fra andre designere, og er især gode hvis man leder efter en simpel skrifttype.
 
+- ### [Free Faces](https://www.freefaces.gallery/)
+
+    Free Faces fremviser el alsidigt udvalg af nogle af de flotteste skrifttyper til fri afbenyttelse. Der kan sorteres efter kategori.
+
+- ### [Bunny Fonts](https://fonts.bunny.net/)
+
+    Bunny Fonts er et bibliotek af skrifttyper der også hoster dem til brug på hjemmesider. Det kan altså bruges som alternativ til Google Fonts.
+
 - ### [SIL Fonts](https://software.sil.org/fonts/)
   
     SIL er det institut, der styrer SIL Open Font licensen, men de har også deres eget bibliotek af skrifttyper. Her finder man især skrifttyper, der dækker alfabeter fra hele verden, men også et par gode til danske bogstaver.
