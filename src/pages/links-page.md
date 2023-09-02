@@ -108,6 +108,10 @@ Der findes en række online biblioteker, der samler skrifttyper flere forskellig
   
     Open Font Library er et større bibliotek af åbne skrifttyper. Skrifttyperne har varierende kvalitet, men fordelen ved dette bibliotek er at de også hoster skrifttyperne, klar til at blive brugt på hjemmesider.
 
+- ### [Use & Modify](https://usemodify.com/)
+
+    Use & Modify er en stor kurateret samling af skrifttyper. Der er rig mulighed for at finde både solide hverdagstyper og kreative, moderne blikfangstyper.
+
 - ### [Font Share](https://www.fontshare.com)
   
     Font Share er lanceret af Indian Type Foundry, med meget professionelle og moderne skrifttyper, der især egner sig til online brug. Scroll ned til bunden for at finde open source skrifttyperne.
@@ -122,7 +126,7 @@ Der findes en række online biblioteker, der samler skrifttyper flere forskellig
 
 - ### [Bunny Fonts](https://fonts.bunny.net/)
 
-    Bunny Fonts er et bibliotek af skrifttyper der også hoster dem til brug på hjemmesider. Det kan altså bruges som alternativ til Google Fonts.
+    Bunny Fonts er et bibliotek af skrifttyper der også hoster dem til brug på hjemmesider. Det kan altså bruges som alternativ til Google Fonts uden overvågning.
 
 - ### [SIL Fonts](https://software.sil.org/fonts/)
   
