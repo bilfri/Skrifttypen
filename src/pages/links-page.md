@@ -92,6 +92,14 @@ Her er en liste over grafiske værksteder, der har gjort deres skrifttyper åben
 
     X Cicéro laver store skrifttyper der især fungerer til overskrifter. Der er både old-school avisagtige og moderne typer.
 
+- ### [Cat Fonts](https://www.peter-wiegel.de/index.html)
+
+    Fantastisk katalog af kiksede og/eller gamle skrifttyper kreeret af en pensioneret tysk herre.
+
+- ### [ANRT](https://anrt-nancy.fr/fr/fonts/)
+
+    Meget gamle skrifttype stilarter, der er blevet digitaliseret i høj kvalitet.
+
 [*Alternativ liste*](https://gitlab.com/raphaelbastide/libre-foundries)
 
 ## Skrifttyper til særlige formål
