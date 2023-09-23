@@ -88,6 +88,10 @@ Her er en liste over grafiske værksteder, der har gjort deres skrifttyper åben
 
     Et design kollektiv fra Singapor der udgiver både kommercielle skrifttyper og meget smagfulde open source skrifttyper.
 
+- ### [X Cicéro](https://deathoftypography.com/typefaces/)
+
+    X Cicéro laver store skrifttyper der især fungerer til overskrifter. Der er både old-school avisagtige og moderne typer.
+
 [*Alternativ liste*](https://gitlab.com/raphaelbastide/libre-foundries)
 
 ## Skrifttyper til særlige formål
