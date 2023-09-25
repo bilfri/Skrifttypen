@@ -112,6 +112,10 @@ Her er en liste over grafiske værksteder, der har gjort deres skrifttyper åben
 
     Atkinson Hyperlegible er en skrifttype, der er optimeret til at være letlæselig for svagtseende.
 
+- ### [Climate Crisis Font](https://kampanjat.hs.fi/climatefont/index.html)
+
+    A typeface whose weights/letterforms are modelled after the melting of ice due to climate breakdown.
+
 ## Skrifttypebiblioteker
 
 Der findes en række online biblioteker, der samler skrifttyper flere forskellige steder fra. Nedenstående biblioteker er især specialiseret i åbne skrifttyper med SIL OFL licens.
