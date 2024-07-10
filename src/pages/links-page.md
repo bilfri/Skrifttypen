@@ -110,7 +110,7 @@ Her er en liste over grafiske værksteder, der har gjort deres skrifttyper åben
 
 - ### [Climate Crisis Font](https://kampanjat.hs.fi/climatefont/index.html)
 
-    A typeface whose weights/letterforms are modelled after the melting of ice due to climate breakdown.
+    En skrifttype hvis vægt og bogstavformer er formet efter afsmeltningen af iskapperne på grund af klimasammenbruddet.
 
 ## Skrifttypebiblioteker
 
