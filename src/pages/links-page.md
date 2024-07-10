@@ -142,7 +142,7 @@ Der findes en række online biblioteker, der samler skrifttyper flere forskellig
 
 - ### [Variable Fonts](https://v-fonts.com/licenses/open-source)
 
-    Variable Fonts er en demo-side for skrifttyper der gør brug af Variable Fonts teknologien der giver mulig for glidende justering af f.eks. vægt. Siden har mange funktionsrige skrifttyper af høj kvalitet.
+    Variable Fonts er en demo-side for skrifttyper der gør brug af variable font teknologien der giver mulig for glidende justering af f.eks. vægt. Siden har mange funktionsrige skrifttyper af høj kvalitet.
 
 - ### [SIL Fonts](https://software.sil.org/fonts/)
   
