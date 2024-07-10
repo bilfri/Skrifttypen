@@ -140,6 +140,10 @@ Der findes en række online biblioteker, der samler skrifttyper flere forskellig
 
     Bunny Fonts er et bibliotek af skrifttyper der også hoster dem til brug på hjemmesider. Det kan altså bruges som alternativ til Google Fonts uden overvågning.
 
+- ### [Variable Fonts](https://v-fonts.com/licenses/open-source)
+
+    Variable Fonts er en demo-side for skrifttyper der gør brug af Variable Fonts teknologien der giver mulig for glidende justering af f.eks. vægt. Siden har mange funktionsrige skrifttyper af høj kvalitet.
+
 - ### [SIL Fonts](https://software.sil.org/fonts/)
   
     SIL er det institut, der styrer SIL Open Font licensen, men de har også deres eget bibliotek af skrifttyper. Her finder man især skrifttyper, der dækker alfabeter fra hele verden, men også et par gode til danske bogstaver.
