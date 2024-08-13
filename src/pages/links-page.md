@@ -136,6 +136,10 @@ Der findes en række online biblioteker, der samler skrifttyper flere forskellig
 
     Free Faces fremviser el alsidigt udvalg af nogle af de flotteste skrifttyper til fri afbenyttelse. Der kan sorteres efter kategori.
 
+- ### [Uncut](https://uncut.wtf/)
+
+    Uncut er et katalog af nutidige skrifttyper. Det samler mange enkeltstående skrifttyper af høj kvalitet, der ikke er del af andre skrifttypesamlinger
+
 - ### [Bunny Fonts](https://fonts.bunny.net/)
 
     Bunny Fonts er et bibliotek af skrifttyper der også hoster dem til brug på hjemmesider. Det kan altså bruges som alternativ til Google Fonts uden overvågning.
