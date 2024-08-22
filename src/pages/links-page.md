@@ -138,7 +138,7 @@ Der findes en række online biblioteker, der samler skrifttyper flere forskellig
 
 - ### [Uncut](https://uncut.wtf/)
 
-    Uncut er et katalog af nutidige skrifttyper. Det samler mange enkeltstående skrifttyper af høj kvalitet, der ikke er del af andre skrifttypesamlinger
+    Uncut er et katalog af nutidige skrifttyper. Det samler mange enkeltstående skrifttyper af høj kvalitet, der ikke er del af andre skrifttypesamlinger.
 
 - ### [Bunny Fonts](https://fonts.bunny.net/)
 
