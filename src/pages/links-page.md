@@ -96,6 +96,14 @@ Her er en liste over grafiske værksteder, der har gjort deres skrifttyper åben
 
     Meget gamle skrifttype stilarter, der er blevet digitaliseret i høj kvalitet.
 
+- ### [Fontes Vintages](https://partage.lokipropagand.art/fontes-numeriques/)
+
+    Vintage typer med et oprørsk islæt.
+
+- ### [Yann Linguinou](https://linguinouyann.com)
+
+    Delikate franske skrifttyper
+
 [*Alternativ liste*](https://gitlab.com/raphaelbastide/libre-foundries)
 
 ## Skrifttyper til særlige formål
